@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ROVIGO:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ROVIGO_jar</output-path>
+    <root id="archive" name="ROVIGO.jar">
+      <element id="module-output" name="ROVIGO" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dist/lib/jt400.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dist/lib/edtftpj.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/edtftpj.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jt400.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
