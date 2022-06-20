@@ -14,6 +14,8 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+
+import com.ibm.as400.access.Record;
 import richiestedh.ConverterDH;
 
 public class Smistatore extends TimerTask {

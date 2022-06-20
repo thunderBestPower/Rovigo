@@ -1,6 +1,8 @@
 package ftpRoGetRich;
 
 import com.ibm.as400.access.*;
+import com.ibm.as400.access.Record;
+
 import java.io.*;
 import java.math.BigDecimal;
 import java.util.*;
